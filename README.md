@@ -1,4 +1,4 @@
-# 本项目仅仅修复xlsx-style无法设置行高,其他功能都未做修改.
+# 本项目仅仅修复xlsx-style无法设置行高
 xlsx-style原地址:https://github.com/protobi/js-xlsx 
 使用本项目请注明原作者https://github.com/protobi
 # xlsx-style
