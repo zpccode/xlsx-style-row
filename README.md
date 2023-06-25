@@ -1,6 +1,7 @@
-# 本项目修复xlsx-style无法设置行高
-xlsx-style原地址:https://github.com/protobi/js-xlsx 
-使用本项目请注明原作者https://github.com/protobi
+# 修复xlsx-style无法设置行高
+xlsx-style原地址:https://github.com/protobi/js-xlsx
+
+https://github.com/protobi
 # xlsx-style
 
 Parser and writer for various spreadsheet formats.  Pure-JS cleanroom implementation from official specifications and related documents.
